@@ -8,8 +8,11 @@ app.use(cors())
 app.get('/', (req, res) => {
     res.send('Running codecademy-Server')
 })
+
+// courses get api
+const courses = require('./data/courses.json')
 app.get('/courses', (req, res) => {
-    res.send('Running codecademy-Server')
+    res.send(courses)
 })
 
 app.listen(port, () => {
