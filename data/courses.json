@@ -1,0 +1,216 @@
+[
+    {
+        "id": 1,
+        "title": "The Complete JavaScript Course 2023: From Zero to Expert!",
+        "thumbImg": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+        "tutorName": "",
+        "shortDescription": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "rating": 4.7,
+        "totalRating": 762985,
+        "totalStudents": 171071,
+        "price": 84.99,
+        "isBestSallier": true,
+        "includes": {
+            "videosHours": 69,
+            "downloadableResources": 18,
+            "certification": true
+        },
+        "topicsLearn": [
+            "Become an advanced, confident, and modern JavaScript developer from scratch",
+            "Become job-ready by understanding how JavaScript really works behind the scenes",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+            "Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc.",
+            "Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Get fast and friendly support in the Q&A area",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Course pathways: design your unique learning path according to your goals!",
+            "Practice your skills with 50+ challenges and assignments (solutions included)",
+            "How to architect your code using flowcharts and common patterns",
+            "Complex concepts like the 'this' keyword, higher-order functions, closures, etc.",
+            "Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc."
+        ],
+        "preRequirements": [
+            "No coding experience is necessary to take this course! I take you from beginner to expert!",
+            "Any computer and OS will work — Windows, macOS or Linux. We will set up your text editor the course.",
+            "A basic understanding of HTML and CSS is a plus, but not a must! The course includes an HTML and CSS crash course."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "The Web Developer Bootcamp 2023",
+        "thumbImg": "https://img-c.udemycdn.com/course/240x135/625204_436a_3.jpg",
+        "tutorName": "",
+        "shortDescription": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+        "rating": 4.7,
+        "totalRating": 256247,
+        "totalStudents": 1855746,
+        "price": 84.99,
+        "isBestSallier": false,
+        "includes": {
+            "videosHours": 63.5,
+            "downloadableResources": 22,
+            "certification": true
+        },
+        "topicsLearn": [
+            "Become an advanced, confident, and modern JavaScript developer from scratch",
+            "Become job-ready by understanding how JavaScript really works behind the scenes",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+            "Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc.",
+            "Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Get fast and friendly support in the Q&A area",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Course pathways: design your unique learning path according to your goals!",
+            "Practice your skills with 50+ challenges and assignments (solutions included)",
+            "How to architect your code using flowcharts and common patterns",
+            "Complex concepts like the 'this' keyword, higher-order functions, closures, etc.",
+            "Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc."
+        ],
+        "preRequirements": [
+            "Have a computer with Internet",
+            "Be ready to learn an insane amount of awesome stuff",
+            "Prepare to build real web apps!",
+            "Brace yourself for stupid jokes about my dog Rusty"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "thumbImg": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+        "tutorName": "Academind by Maximilian Schwarzmüller",
+        "shortDescription": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "rating": 4.7,
+        "totalRating": 762985,
+        "totalStudents": 171071,
+        "price": 84.99,
+        "isBestSallier": true,
+        "includes": {
+            "videosHours": 65,
+            "downloadableResources": 28,
+            "certification": true
+        },
+        "topicsLearn": [
+            "Become an advanced, confident, and modern JavaScript developer from scratch",
+            "Become job-ready by understanding how JavaScript really works behind the scenes",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+            "Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc.",
+            "Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Get fast and friendly support in the Q&A area",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Course pathways: design your unique learning path according to your goals!",
+            "Practice your skills with 50+ challenges and assignments (solutions included)",
+            "How to architect your code using flowcharts and common patterns",
+            "Complex concepts like the 'this' keyword, higher-order functions, closures, etc.",
+            "Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc."
+        ],
+        "preRequirements": [
+            "Build powerful, fast, user-friendly and reactive web apps",
+            "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now",
+            "Provide amazing user experiences by leveraging the power of JavaScript with ease",
+            "Learn all about React Hooks and React Components"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "MERN Stack E-Commerce Mobile App with React Native [2023]",
+        "thumbImg": "https://img-c.udemycdn.com/course/240x135/3655146_832c_3.jpg",
+        "tutorName": "",
+        "shortDescription": "Build E-Shop Mobile App with Admin Panel and Authentication using React Native, Expo, Redux, Context API and much more",
+        "rating": 4.8,
+        "totalRating": 962985,
+        "totalStudents": 121071,
+        "price": 84.99,
+        "isBestSallier": false,
+        "includes": {
+            "videosHours": 62,
+            "downloadableResources": 19,
+            "certification": true
+        },
+        "topicsLearn": [
+            "Become an advanced, confident, and modern JavaScript developer from scratch",
+            "Become job-ready by understanding how JavaScript really works behind the scenes",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+            "Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc.",
+            "Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Get fast and friendly support in the Q&A area",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Course pathways: design your unique learning path according to your goals!",
+            "Practice your skills with 50+ challenges and assignments (solutions included)",
+            "How to architect your code using flowcharts and common patterns",
+            "Complex concepts like the 'this' keyword, higher-order functions, closures, etc.",
+            "Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc."
+        ],
+        "preRequirements": [
+            "Basic Knowledge with Javascript"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Build Web Apps with React & Firebase",
+        "thumbImg": "https://img-c.udemycdn.com/course/240x135/4341438_2d97_2.jpg",
+        "tutorName": "The Net Ninja (Shaun Pelling)",
+        "shortDescription": "Learn React from the ground up to make dynamic websites (includes Context, Hooks, Reducers, Routing, Auth, Databases)",
+        "rating": 4.5,
+        "totalRating": 792985,
+        "totalStudents": 201071,
+        "price": 84.99,
+        "isBestSallier": true,
+        "includes": {
+            "videosHours": 72,
+            "downloadableResources": 22,
+            "certification": true
+        },
+        "topicsLearn": [
+            "Become an advanced, confident, and modern JavaScript developer from scratch",
+            "Become job-ready by understanding how JavaScript really works behind the scenes",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+            "Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc.",
+            "Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Get fast and friendly support in the Q&A area",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Course pathways: design your unique learning path according to your goals!",
+            "Practice your skills with 50+ challenges and assignments (solutions included)",
+            "How to architect your code using flowcharts and common patterns",
+            "Complex concepts like the 'this' keyword, higher-order functions, closures, etc.",
+            "Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc."
+        ],
+        "preRequirements": [
+            "Basic knowledge of JavaScript, HTML & CSS"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "50 Projects In 50 Days - HTML, CSS & JavaScript",
+        "thumbImg": "https://img-c.udemycdn.com/course/240x135/3671332_b86a_4.jpg",
+        "tutorName": "",
+        "shortDescription": "Sharpen your skills by building 50 quick, unique & fun mini projects",
+        "rating": 4.7,
+        "totalRating": 582985,
+        "totalStudents": 121071,
+        "price": 84.99,
+        "isBestSallier": true,
+        "includes": {
+            "videosHours": 69,
+            "downloadableResources": 18,
+            "certification": true
+        },
+        "topicsLearn": [
+            "Become an advanced, confident, and modern JavaScript developer from DOM manipulation, events, array methods, HTTP requests & more",
+            "Perfect for beginners looking for things to build unique projects in a short timeframe",
+            "Modern styling with flexbox, CSS animations, custom properties, etc",
+            "Project based teaching to sharpen your HTML, CSS & JavaScript skills"
+        ],
+        "preRequirements": [
+            "A very basic understanding of HTML, CSS & JavaScript"
+        ]
+    }
+]
